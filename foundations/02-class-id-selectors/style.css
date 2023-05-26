@@ -1,0 +1,19 @@
+.klasa {
+      background-color: #ffc0cb;
+      font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-1 {
+      color: rgb(0, 0, 255);
+      font-size: 36px;;
+}
+
+#id-2 {
+      background-color: #90ee90;
+      font-size: 24px;
+      font-weight: 700;
+}
+
+.adjustment {
+      font-size: 24px;
+}
